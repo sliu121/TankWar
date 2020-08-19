@@ -1,5 +1,5 @@
 # Tank War
-*A classical game developed in JAVA inspired by 韩顺平-坦克大战. This repository is for display. For any beginner who wants to see the code and  to improve JAVA development skills, contact with me, and I will share it.*
+*A classical game developed in JAVA inspired by 韩顺平-坦克大战 . This repository is for display. For any beginner who wants to see the code and  to improve JAVA development skills, contact with me, and I will share it.*
 ***
 
 ## Interface
@@ -16,7 +16,7 @@
 ## Game Display
 ![Image of GamePlay](img/gameShow.png)
 * **Game:**
-     * This is an infinite version game *(enemy tank will keep reborn.)*.
+     * This is an infinite version game *(enemy tank will reborn.)*.
      * There are explosion animation *(image changed and repaint)* and  
      audioplay *(really loud!!)*
      * Save file only contains latest game player saved *(Not a sql file)*.  
@@ -34,6 +34,6 @@
    enemies and modify difficulty.  
     
 ## Thanks 
-   Thanks to *@小小的香辛料* from CSDN sharing the audio and image materials. 
+   Thanks to *@小小的香辛料 from CSDN* shared audio and image materials. 
 
 
